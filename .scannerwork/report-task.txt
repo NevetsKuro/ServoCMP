@@ -1,0 +1,5 @@
+projectKey=ServoCMP
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/ServoCMP
+ceTaskId=AWm4dYmgC-_hLwcFVa_1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWm4dYmgC-_hLwcFVa_1

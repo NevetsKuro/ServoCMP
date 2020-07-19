@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "minlength": {
+            "context": "input"
+        },
+        "row": {
+            "context": "textarea"
+        }
+    }
+}
